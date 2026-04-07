@@ -1,5 +1,6 @@
 ## Hi there 👋👋👋👋
-🌱 I’m currently learning something
+🌱 I’m currently learning c++.
+🤔 I’m looking for help with programing assignment.
 <!--
 **jcpyooa-sketch/jcpyooa-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
